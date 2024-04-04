@@ -7,7 +7,10 @@ int i;        // Indeks elemen array
 
 void input()
 {
+    while (true)
+    {
 
+    }
 }
 
 int main()
